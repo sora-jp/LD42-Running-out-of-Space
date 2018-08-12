@@ -1,0 +1,336 @@
+String too long for TextMeshGenerator. Cutting off characters.
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition_Injected(Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(Rect, GUIContent, Int32)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\buildslave\unity\build\Modules\IMGUI\GUIStyle.cs:453)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\buildslave\unity\build\Modules\IMGUI\TextEditor.cs:1022)
+UnityEngine.TextEditor:UpdateScrollOffsetIfNeeded(Event) (at C:\buildslave\unity\build\Modules\IMGUI\TextEditor.cs:1014)
+UnityEditor.EditorGUI:DoTextField(RecycledTextEditor, Int32, Rect, String, GUIStyle, String, Boolean&, Boolean, Boolean, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1093)
+UnityEditor.EditorGUI:DoNumberField(RecycledTextEditor, Rect, Rect, Int32, Boolean, Double&, Int64&, String, GUIStyle, Boolean, Double) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1938)
+UnityEditor.EditorGUI:DoFloatField(RecycledTextEditor, Rect, Rect, Int32, Single, String, GUIStyle, Boolean, Single) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1830)
+UnityEditor.EditorGUI:DoFloatField(RecycledTextEditor, Rect, Rect, Int32, Single, String, GUIStyle, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1823)
+UnityEditor.EditorGUI:FloatFieldInternal(Rect, GUIContent, Single, GUIStyle) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1715)
+UnityEditor.EditorGUI:FloatField(Rect, GUIContent, Single, GUIStyle) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6321)
+UnityEditor.EditorGUI:FloatField(Rect, GUIContent, Single) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6316)
+UnityEditor.EditorGUI:DefaultPropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5596)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean, Rect) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:149)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:106)
+UnityEditor.EditorGUI:PropertyFieldInternal(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5561)
+UnityEditor.EditorGUI:PropertyField(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6877)
+UnityEditor.EditorGUI:PropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6872)
+UnityEditor.EditorGUI:MultiPropertyField(Rect, GUIContent[], SerializedProperty, PropertyVisibility, Single, Boolean[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:3962)
+UnityEditor.EditorGUI:Vector3Field(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:3498)
+UnityEditor.EditorGUI:DefaultPropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5702)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean, Rect) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:149)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:106)
+UnityEditor.PropertyHandler:OnGUILayout(SerializedProperty, GUIContent, Boolean, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:208)
+UnityEditor.EditorGUILayout:PropertyField(SerializedProperty, GUIContent, Boolean, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:8782)
+UnityEditor.EditorGUILayout:PropertyField(SerializedProperty, GUIContent, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:8771)
+UnityEditor.TransformInspector:Inspector3D() (at C:\buildslave\unity\build\Editor\Mono\Inspector\TransformInspector.cs:57)
+UnityEditor.TransformInspector:OnInspectorGUI() (at C:\buildslave\unity\build\Editor\Mono\Inspector\TransformInspector.cs:44)
+UnityEditor.InspectorWindow:DrawEditor(Editor[], Int32, Boolean, Boolean&, Rect&) (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:1374)
+UnityEditor.InspectorWindow:DrawEditors(Editor[]) (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:1141)
+UnityEditor.InspectorWindow:OnGUI() (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:481)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView:Invoke(String, Object) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:295)
+UnityEditor.HostView:Invoke(String) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:288)
+UnityEditor.HostView:InvokeOnGUI(Rect) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:255)
+UnityEditor.DockArea:OldOnGUI() (at C:\buildslave\unity\build\Editor\Mono\GUI\DockArea.cs:392)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoOnGUI(Event, Boolean) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:215)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleIMGUIEvent(Event) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:380)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleEvent(EventBase) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:359)
+UnityEngine.Experimental.UIElements.EventDispatcher:PropagateEvent(EventBase) (at C:\buildslave\unity\build\Modules\UIElements\EventDispatcher.cs:500)
+UnityEngine.Experimental.UIElements.EventDispatcher:DispatchEvent(EventBase, IPanel) (at C:\buildslave\unity\build\Modules\UIElements\EventDispatcher.cs:345)
+UnityEngine.Experimental.UIElements.UIElementsUtility:DoDispatch(BaseVisualElementPanel) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:243)
+UnityEngine.Experimental.UIElements.UIElementsUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:74)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\IMGUI\GUIUtility.cs:171)
+
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.490849 ms 
+Unloading 53 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.2 MB.
+System memory in use after: 215.3 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 2626.
+Total: 8.300673 ms (FindLiveObjects: 1.459054 ms CreateObjectMapping: 0.064547 ms MarkObjects: 6.713984 ms  DeleteObjects: 0.060900 ms)
+
+Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 2.16 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.16 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.308 seconds
+Initializing Unity.PackageManager (PackageManager) v2018.2.2 for Unity v2018.2.2f1
+Registering platform support modules:
+Registered platform support modules in: 0.0214424s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.538985 ms 
+False
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PersistentData:Load() (at Assets\Scripts\GameManager.cs:169)
+GameManager:Awake() (at Assets\Scripts\GameManager.cs:17)
+
+Callback registration failed. Increase kMaxCallback.
+UnityEditor.HandleUtility:RegisterGfxDeviceCleanup()
+UnityEditor.HandleUtility:InitHandleMaterials() (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:644)
+UnityEditor.HandleUtility:get_handleWireMaterial() (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:672)
+UnityEditor.HandleUtility:ApplyWireMaterial(CompareFunction) (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:704)
+UnityEditor.Handles:BeginLineDrawing(Matrix4x4, Boolean, Int32) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:212)
+UnityEditor.Handles:DrawLine(Vector3, Vector3, Boolean) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:244)
+UnityEditor.Handles:DrawLine(Vector3, Vector3) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:239)
+UnityEditor.CameraEditorUtils:DrawFrustumGizmo(Camera) (at C:\buildslave\unity\build\Editor\Mono\Inspector\CameraEditorUtils.cs:112)
+UnityEditor.CameraEditor:RenderGizmo(Camera) (at C:\buildslave\unity\build\Editor\Mono\Inspector\CameraEditor.cs:740)
+UnityEditor.Handles:Internal_FinishDrawingCamera(Camera, Boolean)
+UnityEditor.Handles:Internal_FinishDrawingCamera(Camera) (at C:\buildslave\unity\build\Editor\Mono\Handles.bindings.cs:47)
+UnityEditor.Handles:DrawCameraStep2(Camera, DrawCameraMode) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:1331)
+UnityEditor.SceneView:OnGUI() (at C:\buildslave\unity\build\Editor\Mono\SceneView\SceneView.cs:1751)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView:Invoke(String, Object) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:295)
+UnityEditor.HostView:Invoke(String) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:288)
+UnityEditor.HostView:InvokeOnGUI(Rect) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:255)
+UnityEditor.DockArea:OldOnGUI() (at C:\buildslave\unity\build\Editor\Mono\GUI\DockArea.cs:392)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoOnGUI(Event, Boolean) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:215)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleIMGUIEvent(Event) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:380)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoRepaint(IStylePainter) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:89)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTree(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:732)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTreeChildren(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:748)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTree(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:736)
+UnityEngine.Experimental.UIElements.Panel:Repaint(Event) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:778)
+UnityEngine.Experimental.UIElements.UIElementsUtility:DoDispatch(BaseVisualElementPanel) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:227)
+UnityEngine.Experimental.UIElements.UIElementsUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:74)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\IMGUI\GUIUtility.cs:171)
+
+String too long for TextMeshGenerator. Cutting off characters.
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition_Injected(Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(Rect, GUIContent, Int32)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\buildslave\unity\build\Modules\IMGUI\GUIStyle.cs:453)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\buildslave\unity\build\Modules\IMGUI\TextEditor.cs:1022)
+UnityEngine.TextEditor:UpdateScrollOffsetIfNeeded(Event) (at C:\buildslave\unity\build\Modules\IMGUI\TextEditor.cs:1014)
+UnityEditor.EditorGUI:DoTextField(RecycledTextEditor, Int32, Rect, String, GUIStyle, String, Boolean&, Boolean, Boolean, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1093)
+UnityEditor.EditorGUI:DoNumberField(RecycledTextEditor, Rect, Rect, Int32, Boolean, Double&, Int64&, String, GUIStyle, Boolean, Double) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1938)
+UnityEditor.EditorGUI:DoFloatField(RecycledTextEditor, Rect, Rect, Int32, Single, String, GUIStyle, Boolean, Single) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1830)
+UnityEditor.EditorGUI:DoFloatField(RecycledTextEditor, Rect, Rect, Int32, Single, String, GUIStyle, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1823)
+UnityEditor.EditorGUI:FloatFieldInternal(Rect, GUIContent, Single, GUIStyle) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1715)
+UnityEditor.EditorGUI:FloatField(Rect, GUIContent, Single, GUIStyle) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6321)
+UnityEditor.EditorGUI:FloatField(Rect, GUIContent, Single) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6316)
+UnityEditor.EditorGUI:DefaultPropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5596)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean, Rect) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:149)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:106)
+UnityEditor.EditorGUI:PropertyFieldInternal(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5561)
+UnityEditor.EditorGUI:PropertyField(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6877)
+UnityEditor.EditorGUI:PropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6872)
+UnityEditor.EditorGUI:MultiPropertyField(Rect, GUIContent[], SerializedProperty, PropertyVisibility, Single, Boolean[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:3962)
+UnityEditor.EditorGUI:Vector3Field(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:3498)
+UnityEditor.EditorGUI:DefaultPropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5702)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean, Rect) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:149)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:106)
+UnityEditor.PropertyHandler:OnGUILayout(SerializedProperty, GUIContent, Boolean, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:208)
+UnityEditor.EditorGUILayout:PropertyField(SerializedProperty, GUIContent, Boolean, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:8782)
+UnityEditor.EditorGUILayout:PropertyField(SerializedProperty, GUIContent, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:8771)
+UnityEditor.TransformInspector:Inspector3D() (at C:\buildslave\unity\build\Editor\Mono\Inspector\TransformInspector.cs:57)
+UnityEditor.TransformInspector:OnInspectorGUI() (at C:\buildslave\unity\build\Editor\Mono\Inspector\TransformInspector.cs:44)
+UnityEditor.InspectorWindow:DrawEditor(Editor[], Int32, Boolean, Boolean&, Rect&) (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:1374)
+UnityEditor.InspectorWindow:DrawEditors(Editor[]) (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:1141)
+UnityEditor.InspectorWindow:OnGUI() (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:481)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView:Invoke(String, Object) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:295)
+UnityEditor.HostView:Invoke(String) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:288)
+UnityEditor.HostView:InvokeOnGUI(Rect) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:255)
+UnityEditor.DockArea:OldOnGUI() (at C:\buildslave\unity\build\Editor\Mono\GUI\DockArea.cs:392)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoOnGUI(Event, Boolean) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:215)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleIMGUIEvent(Event) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:380)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleEvent(EventBase) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:359)
+UnityEngine.Experimental.UIElements.EventDispatcher:PropagateEvent(EventBase) (at C:\buildslave\unity\build\Modules\UIElements\EventDispatcher.cs:500)
+UnityEngine.Experimental.UIElements.EventDispatcher:DispatchEvent(EventBase, IPanel) (at C:\buildslave\unity\build\Modules\UIElements\EventDispatcher.cs:345)
+UnityEngine.Experimental.UIElements.UIElementsUtility:DoDispatch(BaseVisualElementPanel) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:243)
+UnityEngine.Experimental.UIElements.UIElementsUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:74)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\IMGUI\GUIUtility.cs:171)
+
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.490849 ms 
+Unloading 53 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.2 MB.
+System memory in use after: 215.3 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 2626.
+Total: 8.300673 ms (FindLiveObjects: 1.459054 ms CreateObjectMapping: 0.064547 ms MarkObjects: 6.713984 ms  DeleteObjects: 0.060900 ms)
+
+Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 2.16 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.16 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.308 seconds
+Initializing Unity.PackageManager (PackageManager) v2018.2.2 for Unity v2018.2.2f1
+Registering platform support modules:
+Registered platform support modules in: 0.0214424s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.538985 ms 
+False
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PersistentData:Load() (at Assets\Scripts\GameManager.cs:169)
+GameManager:Awake() (at Assets\Scripts\GameManager.cs:17)
+
+Callback registration failed. Increase kMaxCallback.
+UnityEditor.HandleUtility:RegisterGfxDeviceCleanup()
+UnityEditor.HandleUtility:InitHandleMaterials() (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:644)
+UnityEditor.HandleUtility:get_handleWireMaterial() (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:672)
+UnityEditor.HandleUtility:ApplyWireMaterial(CompareFunction) (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:704)
+UnityEditor.Handles:BeginLineDrawing(Matrix4x4, Boolean, Int32) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:212)
+UnityEditor.Handles:DrawLine(Vector3, Vector3, Boolean) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:244)
+UnityEditor.Handles:DrawLine(Vector3, Vector3) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:239)
+UnityEditor.CameraEditorUtils:DrawFrustumGizmo(Camera) (at C:\buildslave\unity\build\Editor\Mono\Inspector\CameraEditorUtils.cs:112)
+UnityEditor.CameraEditor:RenderGizmo(Camera) (at C:\buildslave\unity\build\Editor\Mono\Inspector\CameraEditor.cs:740)
+UnityEditor.Handles:Internal_FinishDrawingCamera(Camera, Boolean)
+UnityEditor.Handles:Internal_FinishDrawingCamera(Camera) (at C:\buildslave\unity\build\Editor\Mono\Handles.bindings.cs:47)
+UnityEditor.Handles:DrawCameraStep2(Camera, DrawCameraMode) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:1331)
+UnityEditor.SceneView:OnGUI() (at C:\buildslave\unity\build\Editor\Mono\SceneView\SceneView.cs:1751)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView:Invoke(String, Object) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:295)
+UnityEditor.HostView:Invoke(String) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:288)
+UnityEditor.HostView:InvokeOnGUI(Rect) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:255)
+UnityEditor.DockArea:OldOnGUI() (at C:\buildslave\unity\build\Editor\Mono\GUI\DockArea.cs:392)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoOnGUI(Event, Boolean) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:215)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleIMGUIEvent(Event) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:380)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoRepaint(IStylePainter) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:89)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTree(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:732)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTreeChildren(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:748)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTree(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:736)
+UnityEngine.Experimental.UIElements.Panel:Repaint(Event) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:778)
+UnityEngine.Experimental.UIElements.UIElementsUtility:DoDispatch(BaseVisualElementPanel) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:227)
+UnityEngine.Experimental.UIElements.UIElementsUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:74)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\IMGUI\GUIUtility.cs:171)
+
+String too long for TextMeshGenerator. Cutting off characters.
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition_Injected(Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(Rect, GUIContent, Int32)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\buildslave\unity\build\Modules\IMGUI\GUIStyle.cs:453)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\buildslave\unity\build\Modules\IMGUI\TextEditor.cs:1022)
+UnityEngine.TextEditor:UpdateScrollOffsetIfNeeded(Event) (at C:\buildslave\unity\build\Modules\IMGUI\TextEditor.cs:1014)
+UnityEditor.EditorGUI:DoTextField(RecycledTextEditor, Int32, Rect, String, GUIStyle, String, Boolean&, Boolean, Boolean, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1093)
+UnityEditor.EditorGUI:DoNumberField(RecycledTextEditor, Rect, Rect, Int32, Boolean, Double&, Int64&, String, GUIStyle, Boolean, Double) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1938)
+UnityEditor.EditorGUI:DoFloatField(RecycledTextEditor, Rect, Rect, Int32, Single, String, GUIStyle, Boolean, Single) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1830)
+UnityEditor.EditorGUI:DoFloatField(RecycledTextEditor, Rect, Rect, Int32, Single, String, GUIStyle, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1823)
+UnityEditor.EditorGUI:FloatFieldInternal(Rect, GUIContent, Single, GUIStyle) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:1715)
+UnityEditor.EditorGUI:FloatField(Rect, GUIContent, Single, GUIStyle) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6321)
+UnityEditor.EditorGUI:FloatField(Rect, GUIContent, Single) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6316)
+UnityEditor.EditorGUI:DefaultPropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5596)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean, Rect) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:149)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:106)
+UnityEditor.EditorGUI:PropertyFieldInternal(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5561)
+UnityEditor.EditorGUI:PropertyField(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6877)
+UnityEditor.EditorGUI:PropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:6872)
+UnityEditor.EditorGUI:MultiPropertyField(Rect, GUIContent[], SerializedProperty, PropertyVisibility, Single, Boolean[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:3962)
+UnityEditor.EditorGUI:Vector3Field(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:3498)
+UnityEditor.EditorGUI:DefaultPropertyField(Rect, SerializedProperty, GUIContent) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:5702)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean, Rect) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:149)
+UnityEditor.PropertyHandler:OnGUI(Rect, SerializedProperty, GUIContent, Boolean) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:106)
+UnityEditor.PropertyHandler:OnGUILayout(SerializedProperty, GUIContent, Boolean, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\ScriptAttributeGUI\PropertyHandler.cs:208)
+UnityEditor.EditorGUILayout:PropertyField(SerializedProperty, GUIContent, Boolean, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:8782)
+UnityEditor.EditorGUILayout:PropertyField(SerializedProperty, GUIContent, GUILayoutOption[]) (at C:\buildslave\unity\build\Editor\Mono\EditorGUI.cs:8771)
+UnityEditor.TransformInspector:Inspector3D() (at C:\buildslave\unity\build\Editor\Mono\Inspector\TransformInspector.cs:57)
+UnityEditor.TransformInspector:OnInspectorGUI() (at C:\buildslave\unity\build\Editor\Mono\Inspector\TransformInspector.cs:44)
+UnityEditor.InspectorWindow:DrawEditor(Editor[], Int32, Boolean, Boolean&, Rect&) (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:1374)
+UnityEditor.InspectorWindow:DrawEditors(Editor[]) (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:1141)
+UnityEditor.InspectorWindow:OnGUI() (at C:\buildslave\unity\build\Editor\Mono\Inspector\InspectorWindow.cs:481)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView:Invoke(String, Object) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:295)
+UnityEditor.HostView:Invoke(String) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:288)
+UnityEditor.HostView:InvokeOnGUI(Rect) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:255)
+UnityEditor.DockArea:OldOnGUI() (at C:\buildslave\unity\build\Editor\Mono\GUI\DockArea.cs:392)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoOnGUI(Event, Boolean) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:215)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleIMGUIEvent(Event) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:380)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleEvent(EventBase) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:359)
+UnityEngine.Experimental.UIElements.EventDispatcher:PropagateEvent(EventBase) (at C:\buildslave\unity\build\Modules\UIElements\EventDispatcher.cs:500)
+UnityEngine.Experimental.UIElements.EventDispatcher:DispatchEvent(EventBase, IPanel) (at C:\buildslave\unity\build\Modules\UIElements\EventDispatcher.cs:345)
+UnityEngine.Experimental.UIElements.UIElementsUtility:DoDispatch(BaseVisualElementPanel) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:243)
+UnityEngine.Experimental.UIElements.UIElementsUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:74)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\IMGUI\GUIUtility.cs:171)
+
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.490849 ms 
+Unloading 53 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.2 MB.
+System memory in use after: 215.3 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 2626.
+Total: 8.300673 ms (FindLiveObjects: 1.459054 ms CreateObjectMapping: 0.064547 ms MarkObjects: 6.713984 ms  DeleteObjects: 0.060900 ms)
+
+Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 2.16 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.16 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.308 seconds
+Initializing Unity.PackageManager (PackageManager) v2018.2.2 for Unity v2018.2.2f1
+Registering platform support modules:
+Registered platform support modules in: 0.0214424s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.538985 ms 
+False
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PersistentData:Load() (at Assets\Scripts\GameManager.cs:169)
+GameManager:Awake() (at Assets\Scripts\GameManager.cs:17)
+
+Callback registration failed. Increase kMaxCallback.
+UnityEditor.HandleUtility:RegisterGfxDeviceCleanup()
+UnityEditor.HandleUtility:InitHandleMaterials() (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:644)
+UnityEditor.HandleUtility:get_handleWireMaterial() (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:672)
+UnityEditor.HandleUtility:ApplyWireMaterial(CompareFunction) (at C:\buildslave\unity\build\Editor\Mono\HandleUtility.cs:704)
+UnityEditor.Handles:BeginLineDrawing(Matrix4x4, Boolean, Int32) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:212)
+UnityEditor.Handles:DrawLine(Vector3, Vector3, Boolean) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:244)
+UnityEditor.Handles:DrawLine(Vector3, Vector3) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:239)
+UnityEditor.CameraEditorUtils:DrawFrustumGizmo(Camera) (at C:\buildslave\unity\build\Editor\Mono\Inspector\CameraEditorUtils.cs:112)
+UnityEditor.CameraEditor:RenderGizmo(Camera) (at C:\buildslave\unity\build\Editor\Mono\Inspector\CameraEditor.cs:740)
+UnityEditor.Handles:Internal_FinishDrawingCamera(Camera, Boolean)
+UnityEditor.Handles:Internal_FinishDrawingCamera(Camera) (at C:\buildslave\unity\build\Editor\Mono\Handles.bindings.cs:47)
+UnityEditor.Handles:DrawCameraStep2(Camera, DrawCameraMode) (at C:\buildslave\unity\build\Editor\Mono\Handles.cs:1331)
+UnityEditor.SceneView:OnGUI() (at C:\buildslave\unity\build\Editor\Mono\SceneView\SceneView.cs:1751)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView:Invoke(String, Object) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:295)
+UnityEditor.HostView:Invoke(String) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:288)
+UnityEditor.HostView:InvokeOnGUI(Rect) (at C:\buildslave\unity\build\Editor\Mono\HostView.cs:255)
+UnityEditor.DockArea:OldOnGUI() (at C:\buildslave\unity\build\Editor\Mono\GUI\DockArea.cs:392)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoOnGUI(Event, Boolean) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:215)
+UnityEngine.Experimental.UIElements.IMGUIContainer:HandleIMGUIEvent(Event) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:380)
+UnityEngine.Experimental.UIElements.IMGUIContainer:DoRepaint(IStylePainter) (at C:\buildslave\unity\build\Modules\UIElements\IMGUIContainer.cs:89)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTree(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:732)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTreeChildren(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:748)
+UnityEngine.Experimental.UIElements.Panel:PaintSubTree(Event, VisualElement, Matrix4x4, ClippingOptions, Rect) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:736)
+UnityEngine.Experimental.UIElements.Panel:Repaint(Event) (at C:\buildslave\unity\build\Modules\UIElements\Panel.cs:778)
+UnityEngine.Experimental.UIElements.UIElementsUtility:DoDispatch(BaseVisualElementPanel) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:227)
+UnityEngine.Experimental.UIElements.UIElementsUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\UIElements\UIElementsUtility.cs:74)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr) (at C:\buildslave\unity\build\Modules\IMGUI\GUIUtility.cs:171)
+

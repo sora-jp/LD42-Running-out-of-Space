@@ -1,0 +1,36 @@
+Slowdown
+Blank screen
+Scrolling exceptions / stacktrace
+Skull
+
+Commands
+"
+
+Compromising system...
+Installing rootkit...
+Patching kernel...
+%random% %random% repeat 6 times quickly
+Encrypting files...
+Locking down UAC...
+System successfully compromised
+
+"
+
+Popup
+"
+Your files have been encrypted.
+Please deposit 50 bitcoins
+to unlock your files, or
+refuse and never see them again.
+
+y / n
+"
+
+n leads to
+
+Popup
+"
+This will erase all of your progress, Continue?
+
+y / n
+"
